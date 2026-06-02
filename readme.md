@@ -1,6 +1,12 @@
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,45:312e81,75:7c3aed,100:06b6d4&text=Ayush%20&fontColor=e0f2fe&fontSize=62&fontAlignY=36&animation=fadeIn&descAlignY=56&descSize=20" width="100%" alt="Ayush futuristic banner" />
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Ayush</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
+
+
+
 
 - 🔭 I’m currently working on: Enter your project info here
 - 🌱 I’m currently learning: Enter your tech here
