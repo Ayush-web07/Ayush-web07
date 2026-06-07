@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
 
 I am motivated and detail-oriented BCA student with a solid foundation in Python development
-and AI/ML. Proficient in Pyhton, Data handling, Basic machine learning concepts with strong
+and AI/ML. Proficient in Python, Data handling, Basic machine learning concepts with strong
 analytical and Problem-Solving skills. Eager to contribute to 
 real world projects and build a successful career in the Tech Industry.
 I continously strive to enhance my knowledge in modern web technologies
