@@ -1,27 +1,77 @@
-<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,45:312e81,75:7c3aed,100:06b6d4&text=Ayush%20&fontColor=e0f2fe&fontSize=62&fontAlignY=36&animation=fadeIn&descAlignY=56&descSize=20" width="100%" alt="Ayush futuristic banner" />
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Ayush</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
+<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
+
+I am motivated and detail-oriented BCA student with a solid foundation in Python development
+and AI/ML. Proficient in Pyhton, Data handling, Basic machine learning concepts with strong
+analytical and Problem-Solving skills. Eager to contribute to 
+real world projects and build a successful career in the Tech Industry.
+I continously strive to enhance my knowledge in modern web technologies
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=Python+Developer;Data+Scientist;Django+Develope;" />
+</p>
+
+
+<h2 align="center">🐍 Programming & Data Science</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Altair-FF2B2B?style=for-the-badge"/>
+</p>
+
+<h2 align="center">🤖 Artificial Intelligence & Machine Learning</h2>
 
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-6200EA?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on: Enter your project info here
-- 🌱 I’m currently learning: Enter your tech here
-- 👯 I’m looking to collaborate on: Enter your project name and info
-- 🤔 I’m looking for help with: Your project here
-- 💬 Ask me about: Collaboration, Tech Support
-- 📫 How to reach me: Enter your email here
-- 😄 Pronouns: Imran Sir
-- ⚡️ Fun fact: I Love Tech and Tech Love Me
 
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayu_.sh._.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kashyap-0b32a33b7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush98050@gmail.com) 
+<h2 align="center">🌐 Development</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django" height="60"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<h2 align="center">📊 Data Analytics & Business Intelligence</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+<h2 align="center">🛠️ Tools & Platforms</h2>
+<p align="center">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/Ayush-web07">
@@ -29,12 +79,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Ayush-web07&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ayush-web07's GitHub Streak" width="49%" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
-</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -45,15 +89,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Aysuh-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
