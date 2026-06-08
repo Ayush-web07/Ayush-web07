@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Ayush</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
