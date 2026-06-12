@@ -65,7 +65,10 @@ I continously strive to enhance my knowledge in modern web technologies
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<picture>
+
+<h2 align="center">💻Projects</h2>
+
+<picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
