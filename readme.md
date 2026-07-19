@@ -136,11 +136,19 @@ If you like this project, don't forget to ⭐ the repository.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aysuh-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="28" alt="Soft skills" /> Soft Skills
 
----
-[![](https://komarev.com/ghpvc/?username=Aysuh-web&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-111827?style=for-the-badge&logo=codementor&logoColor=22d3ee)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-111827?style=for-the-badge&logo=github&logoColor=a855f7)
+![Leadership](https://img.shields.io/badge/Leadership-111827?style=for-the-badge&logo=target&logoColor=f472b6)
+![Communication](https://img.shields.io/badge/Communication-111827?style=for-the-badge&logo=gmail&logoColor=ef4444)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-111827?style=for-the-badge&logo=googleanalytics&logoColor=22c55e)
+![Time Management](https://img.shields.io/badge/Time%20Management-111827?style=for-the-badge&logo=clockify&logoColor=facc15)
+
+</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
