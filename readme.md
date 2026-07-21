@@ -142,7 +142,9 @@ If you like this project, don't forget to ⭐ the repository.
   <a href="https://github.com/Ayush-web07">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayush-web07&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Ayush-web07's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Ayush-web07&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ayush-web07's GitHub Streak" width="49%" />
+ <img
+src="https://streak-stats.demolab.com?user=Ayush-web07&theme=tokyonight&hide_border=true"
+width="49%" />
 </p>
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-web07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=A855F7&area=true&area_color=312E81" alt="GitHub activity graph" />
 
