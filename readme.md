@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Ayush</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
@@ -65,7 +66,18 @@ I continously strive to enhance my knowledge in modern web technologies
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+<h2 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="28" alt="Soft skills" /> Soft Skills</h2>
 
+<div align="center">
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-111827?style=for-the-badge&logo=codementor&logoColor=22d3ee)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-111827?style=for-the-badge&logo=github&logoColor=a855f7)
+![Leadership](https://img.shields.io/badge/Leadership-111827?style=for-the-badge&logo=target&logoColor=f472b6)
+![Communication](https://img.shields.io/badge/Communication-111827?style=for-the-badge&logo=gmail&logoColor=ef4444)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-111827?style=for-the-badge&logo=googleanalytics&logoColor=22c55e)
+![Time Management](https://img.shields.io/badge/Time%20Management-111827?style=for-the-badge&logo=clockify&logoColor=facc15)
+
+</div>
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
@@ -132,23 +144,21 @@ If you like this project, don't forget to ⭐ the repository.
   </a>
   <img src="https://streak-stats.demolab.com/?user=Ayush-web07&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ayush-web07's GitHub Streak" width="49%" />
 </p>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-web07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=A855F7&area=true&area_color=312E81" alt="GitHub activity graph" />
+
+</div>
+
+<br />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="28" alt="Soft skills" /> Soft Skills
 
 <div align="center">
 
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-111827?style=for-the-badge&logo=codementor&logoColor=22d3ee)
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-111827?style=for-the-badge&logo=github&logoColor=a855f7)
-![Leadership](https://img.shields.io/badge/Leadership-111827?style=for-the-badge&logo=target&logoColor=f472b6)
-![Communication](https://img.shields.io/badge/Communication-111827?style=for-the-badge&logo=gmail&logoColor=ef4444)
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-111827?style=for-the-badge&logo=googleanalytics&logoColor=22c55e)
-![Time Management](https://img.shields.io/badge/Time%20Management-111827?style=for-the-badge&logo=clockify&logoColor=facc15)
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=%22Code+is+where+logic+meets+imagination.%22;Thanks+for+visiting+my+profile.;Let%27s+build+secure%2C+scalable%2C+future-ready+web+apps." alt="Developer quote and thanks" />
 
 </div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
