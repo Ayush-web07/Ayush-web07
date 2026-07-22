@@ -89,6 +89,7 @@ I continously strive to enhance my knowledge in modern web technologies
 <td width="50%" valign="top">
 
 ### 📌 Project Overview
+(AI-Powered Image to PDF Converter Web Application)
 
 A modern **Django-based web application** for converting **Images** and **Text** into high-quality PDF documents with secure authentication, PDF preview, download, file history, and WebP image conversion.
 
@@ -143,6 +144,7 @@ A modern **Django-based web application** for converting **Images** and **Text**
 <td width="50%">
 
 # 📌 Project Overview
+(AI-Powered House Price Prediction & Real Estate Analytics Platform)
 
 An intelligent real estate analytics platform built with Django, Python, and Scikit-learn that predicts house prices using Machine Learning. The application provides accurate price estimation, interactive dashboards, market trend analysis, property listings, downloadable reports, and a responsive user interface to simplify real estate decision-making.
 
