@@ -136,11 +136,75 @@ A modern **Django-based web application** for converting **Images** and **Text**
 
 </tr>
 </table>
-👨‍💻 Author
-
 Developed with ❤️ by Ayush
-
 If you like this project, don't forget to ⭐ the repository.
+
+
+<table>
+<tr>
+
+<td width="50%">
+
+# 📌 Project Overview
+
+An intelligent real estate analytics platform built with Django, Python, and Scikit-learn that predicts house prices using Machine Learning. The application provides accurate price estimation, interactive dashboards, market trend analysis, property listings, downloadable reports, and a responsive user interface to simplify real estate decision-making.
+
+<br>
+
+### Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap">
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+</p>
+<a href="#">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Ayush-web07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</td>
+
+<td width="50%">
+# 🚀 Main Features
+
+- 🤖 Machine Learning Prediction
+- 🏠 Property Price Estimation
+- 📊 Analytics Dashboard
+- 📈 Market Insights
+- 🏘 Property Listings
+- ❤️ Save Favourite Houses
+- 📄 Download Prediction Report
+- 🔥 Prediction History
+- 📍 Location Intelligence
+- 🌙 Dark Theme
+- 📱 Mobile Responsive
+- ⚡ Fast Django Backend
+- 🎨 Modern UI
+- 🔐 Secure Application
+</td>
+</tr>
+</table>
+Developed with ❤️ by Ayush
+If you like this project don't forget to ⭐ Star this Repository.
 
 ## 📊 GitHub Stats 
 <p align="center">
