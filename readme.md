@@ -30,7 +30,6 @@ I continously strive to enhance my knowledge in modern web technologies
 <h2 align="center">🤖 Artificial Intelligence & Machine Learning</h2>
 
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine_Learning-00C853?style=for-the-badge"/>
@@ -185,7 +184,7 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/Ayush-web07/House-Price-Prediction">
+<a href="https://github.com/Ayush-web07/House-Price-Prediction-Django">
 <img src="https://img.shields.io/badge/📂_Repository-0969DA?style=for-the-badge">
 </a>
 </td>
