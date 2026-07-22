@@ -7,10 +7,9 @@ and AI/ML. Proficient in Python, Data handling, Basic machine learning concepts 
 analytical and Problem-Solving skills. Eager to contribute to 
 real world projects and build a successful career in the Tech Industry.
 I continously strive to enhance my knowledge in modern web technologies
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=Python+Developer;AI/ML Engineer;Django+Develope;" />
-</p>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Python+Developer;AI/ML+Engineer;Django+Developer" alt="Animated typing introduction" />
+  </a>
 
 <h2 align="center">🐍 Programming & Data Science</h2>
 
@@ -243,3 +242,16 @@ width="49%" />
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
+
+
+
+
+
+  
+
+
+
+
+
+ 
+  
