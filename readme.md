@@ -136,9 +136,6 @@ A modern **Django-based web application** for converting **Images** and **Text**
 
 </tr>
 </table>
-Developed with ❤️ by Ayush
-If you like this project, don't forget to ⭐ the repository.
-
 
 <table>
 <tr>
@@ -204,7 +201,9 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 </tr>
 </table>
 Developed with ❤️ by Ayush
+
 If you like this project don't forget to ⭐ Star this Repository.
+
 
 ## 📊 GitHub Stats 
 <p align="center">
