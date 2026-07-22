@@ -88,7 +88,7 @@ I continously strive to enhance my knowledge in modern web technologies
 <td width="50%" valign="top">
 
 ### 📌 Project Overview
-(AI-Powered Image to PDF Converter Web Application)
+(AI-Powered Image, Text to PDF Converter Web Application)
 
 A modern **Django-based web application** for converting **Images** and **Text** into high-quality PDF documents with secure authentication, PDF preview, download, file history, and WebP image conversion.
 
@@ -117,7 +117,7 @@ A modern **Django-based web application** for converting **Images** and **Text**
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/Ayush-web07/House-Price-Prediction">
+<a href="https://github.com/Ayush-web07/text-image-generator">
 <img src="https://img.shields.io/badge/📂_Repository-0969DA?style=for-the-badge">
 </a>
 </td>
