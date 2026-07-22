@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Ayush</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
@@ -9,7 +8,7 @@ analytical and Problem-Solving skills. Eager to contribute to
 real world projects and build a successful career in the Tech Industry.
 I continously strive to enhance my knowledge in modern web technologies
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=Python+Developer;Data+Scientist;Django+Develope;" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=Python+Developer;AI/ML Engineer;Django+Develope;" />
 </p>
 
 
