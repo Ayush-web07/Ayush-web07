@@ -146,6 +146,8 @@ A modern **Django-based web application** for converting **Images** and **Text**
 <td width="50%">
 
 # 📌 Project Overview
+(House-Price-Prediction-AI)
+
 
 An intelligent real estate analytics platform built with Django, Python, and Scikit-learn that predicts house prices using Machine Learning. The application provides accurate price estimation, interactive dashboards, market trend analysis, property listings, downloadable reports, and a responsive user interface to simplify real estate decision-making.
 
