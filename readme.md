@@ -146,7 +146,6 @@ A modern **Django-based web application** for converting **Images** and **Text**
 <td width="50%">
 
 # 📌 Project Overview
-(AI-Powered House Price Prediction & Real Estate Analytics Platform)
 
 An intelligent real estate analytics platform built with Django, Python, and Scikit-learn that predicts house prices using Machine Learning. The application provides accurate price estimation, interactive dashboards, market trend analysis, property listings, downloadable reports, and a responsive user interface to simplify real estate decision-making.
 
@@ -182,8 +181,7 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 <a href="https://github.com/Ayush-web07">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
-
-<a href="https://github.com/Ayush-web07/House-Price-Prediction-Django">
+<a href="https://github.com/Ayush-web07/text-image-generator">
 <img src="https://img.shields.io/badge/📂_Repository-0969DA?style=for-the-badge">
 </a>
 </td>
@@ -208,7 +206,7 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 </td>
 </tr>
 </table>
-Developed with ❤️ by Ayush
+Developed with ❤️ by **Ayush**
 
 If you like this project don't forget to ⭐ Star this Repository.
 
