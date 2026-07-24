@@ -184,7 +184,7 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/Ayush-web07/text-image-generator">
+<a href="https://github.com/Ayush-web07/House-Price-Prediction">
 <img src="https://img.shields.io/badge/📂_Repository-0969DA?style=for-the-badge">
 </a>
 </td>
