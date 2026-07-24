@@ -154,9 +154,7 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 <br>
 
 ### Technologies
-
 <p>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django">
@@ -190,8 +188,8 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 </td>
 
 <td width="50%">
+  
 # 🚀 Main Features
-
 - 🤖 Machine Learning Prediction
 - 🏠 Property Price Estimation
 - 📊 Analytics Dashboard
