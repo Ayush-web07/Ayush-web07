@@ -81,13 +81,13 @@ I continously strive to enhance my knowledge in modern web technologies
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
 </picture>
 <h2 align="center">📽️Projects </h2>
+
+**TEXT-IMAGE-TO-PDF-GENERATOR**
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
-
-### 📌 Project Overview
-(AI-Powered Image, Text to PDF Converter Web Application)
 
 A modern **Django-based web application** for converting **Images** and **Text** into high-quality PDF documents with secure authentication, PDF preview, download, file history, and WebP image conversion.
 
@@ -139,6 +139,10 @@ A modern **Django-based web application** for converting **Images** and **Text**
 
 </tr>
 </table>
+Developed with ❤️ by Ayush.
+If you like this project, don't forget to ⭐ the repository.
+ 
+
 
 <table>
 <tr>
