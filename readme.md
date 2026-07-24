@@ -116,7 +116,7 @@ A modern **Django-based web application** for converting **Images** and **Text**
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/Ayush-web07/text-image-generator">
+<a href="https://github.com/Ayush-web07/Text-Image-to-PDF-Generator">
 <img src="https://img.shields.io/badge/📂_Repository-0969DA?style=for-the-badge">
 </a>
 </td>
