@@ -141,15 +141,11 @@ A modern **Django-based web application** for converting **Images** and **Text**
 </table>
 Developed with ❤️ by Ayush.
 If you like this project, don't forget to ⭐ the repository.
- 
-
 
 <table>
 <tr>
 
 <td width="50%">
-
-# 📌 Project Overview
 (House-Price-Prediction-AI)
 
 
@@ -187,7 +183,8 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 <a href="https://github.com/Ayush-web07">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
-<a href="https://github.com/Ayush-web07/House-Price-Prediction-AI">
+
+<a href="https://github.com/Ayush-web07/text-image-generator">
 <img src="https://img.shields.io/badge/📂_Repository-0969DA?style=for-the-badge">
 </a>
 </td>
@@ -215,6 +212,7 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 Developed with ❤️ by **Ayush**
 
 If you like this project don't forget to ⭐ Star this Repository.
+
 
 
 ## 📊 GitHub Stats 
