@@ -75,11 +75,7 @@ I continously strive to enhance my knowledge in modern web technologies
 ![Time Management](https://img.shields.io/badge/Time%20Management-111827?style=for-the-badge&logo=clockify&logoColor=facc15)
 
 </div>
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
-</picture>
+
 <h2 align="center">📽️Projects </h2>
 
 **TEXT-IMAGE-TO-PDF-GENERATOR**
@@ -210,7 +206,11 @@ Developed with ❤️ by **Ayush**
 
 If you like this project don't forget to ⭐ Star this Repository.
 
-
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalarkaj11/kamalarkaj11/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📊 GitHub Stats 
 <p align="center">
