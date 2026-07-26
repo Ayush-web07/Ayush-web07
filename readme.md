@@ -8,7 +8,7 @@ analytical and Problem-Solving skills. Eager to contribute to
 real world projects and build a successful career in the Tech Industry.
 I continously strive to enhance my knowledge in modern web technologies
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Python+Developer;AI/ML+Engineer; alt="Animated typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Python+Developer;AI/ML+Engineer" alt="Animated typing introduction" />
   </a>
 
 <h2 align="center">🐍 Programming & Data Science</h2>
