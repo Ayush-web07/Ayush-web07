@@ -103,10 +103,6 @@ A modern **Django-based web application** for converting **Images** and **Text**
 <img src="https://img.shields.io/badge/ReportLab-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 
 </p>
-<a href="#">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge">
-</a>
-
 <a href="https://github.com/Ayush-web07">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
@@ -169,10 +165,6 @@ An intelligent real estate analytics platform built with Django, Python, and Sci
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
 
 </p>
-<a href="#">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge">
-</a>
-
 <a href="https://github.com/Ayush-web07">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
