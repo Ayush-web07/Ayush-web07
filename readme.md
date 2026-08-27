@@ -119,7 +119,7 @@ An intelligent AI-powered research workspace built with Python, LLMs, RAG, and F
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/Ayush-web07/Text-Image-to-PDF-Generator">
+<a href="https://github.com/Ayush-web07/AI-Research-Assistant">
 <img src="https://img.shields.io/badge/📂_Repository-0969DA?style=for-the-badge">
 </a>
 
